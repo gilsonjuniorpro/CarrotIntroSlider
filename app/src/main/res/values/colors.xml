@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#127a87</color>
+    <color name="colorPrimaryDark">#2e3f46</color>
+    <color name="colorAccent">#56acb1</color>
+    <color name="blue_grey_500">#607D8B</color>
+    <color name="blue_grey_600">#546E7A</color>
+    <color name="blue_grey_700">#455A64</color>
+    <color name="blue_grey_800">#37474F</color>
+    <color name="blue_grey_900">#263238</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorGrey">#e8e8e8</color>
+    <color name="colorGreyDarker">#646464</color>
+    <color name="colorHint">#285e67</color>
+    <color name="colorInput">#26373f</color>
+    <color name="colorButtonEnabled">#26373f</color>
+    <color name="colorButtonDisabled">#56acb1</color>
+    <color name="colorHintAmarelo">#fad31a</color>
+    <color name="colorGreyXXXLight">#FAFAFA</color>
+    <color name="colorGreyXXLight">#F5F5F5</color>
+    <color name="colorGreyXLight">#EEEEEE</color>
+    <color name="colorGreyExtraLight">#E0E0E0</color>
+    <color name="colorGreyLight">#bababa</color>
+    <color name="colorGreyMedium">#9E9E9E</color>
+    <color name="colorOrange">#f8591a</color>
+    <color name="colorYellow">#ffc332</color>
+    <color name="colorYellowEgg">#FFAB00</color>
+    <color name="colorMostarda">#e08e19</color>
+    <color name="colorYellowExtraLight">#FFF3E0</color>
+    <color name="colorBrownLight">#b47448</color>
+    <color name="colorBrown">#8b5d3c</color>
+    <color name="colorPurple">#652d92</color>
+    <color name="colorRed">#e02a1d</color>
+    <color name="colorRedDarker">#ed1c22</color>
+    <color name="colorGreen">#8ec63d</color>
+    <color name="colorGreenDarker">#336f33</color>
+    <color name="viewBg">#f1f5f8</color>
+    <color name="background_post_title">#56acb1</color>
+    <color name="backdrop_background">#9556acb1</color>
+    <color name="line_separator">#9556acb1</color>
+    <color name="color_base_alpha">#127a87</color>
+    <color name="color_card_light">#E0F2F1</color>
+    <color name="color_card_medium">#B2DFDB</color>
+    <color name="photo_user_border">#127a87</color>
+    <color name="user_name">#2e3f46</color>
+    <color name="user_email">#127a87</color>
+    <color name="icon_color_border">#56acb1</color>
+    <color name="address_title">#127a87</color>
+    <color name="post_title">#26373f</color>
+    <color name="post_description">#26373f</color>
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#E65100</color>
+    <color name="bg_screen2">#004D40</color>
+    <color name="bg_screen3">#F57F17</color>
+    <color name="bg_screen4">#263238</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#FFA726</color>
+    <color name="dot_dark_screen2">#26A69A</color>
+    <color name="dot_dark_screen3">#FFEE58</color>
+    <color name="dot_dark_screen4">#78909C</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#FFE0B2</color>
+    <color name="dot_light_screen2">#B2DFDB</color>
+    <color name="dot_light_screen3">#FFF9C4</color>
+    <color name="dot_light_screen4">#CFD8DC</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+</resources>
